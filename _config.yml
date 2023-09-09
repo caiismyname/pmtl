@@ -21,7 +21,7 @@ email: pmtechlessons@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   PMTechLessons distills software engineering concepts into accessible 
   explainers for aspiring, non-technical product managers.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/pmtl" # the subpath of your site, e.g. /blog
 url: "" # 'http://pmtechlessons.com'
 
 

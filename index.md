@@ -35,6 +35,15 @@ PMTechLessons is a resource for aspiring and early-career product managers. Arti
 - [Elements of Coding](http://pmtechlessons.com/terminology-pt-1-elements-of-coding/)
 - [What is an API?](http://pmtechlessons.com/what-is-an-api/)
 
+
+---
+
+## **_Programming-curious?_**
+
+_I put together a 9-part course on algorithms designed for non-technical readers that's a great, gentle introduction to thinking like a programmer. **[Get the course for only $5](https://pmtl.gumroad.com/l/introduction-to-algorithms)**, or **[download the first chapter](https://pmtechlessons.com/wp-content/uploads/2022/04/reading-code.pdf)**._
+
+---
+
 ## Early-Career Product Management
 
 - [My Resume When I Became an APM](http://pmtechlessons.com/my-resume-when-i-became-an-apm/)
